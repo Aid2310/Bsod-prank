@@ -1,0 +1,65 @@
+body {
+    background-color: #0078D7;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    cursor: default;
+    overflow: hidden;
+}
+#face {
+    align-items: center;
+    font-size: 120px;
+    left: -95%;
+    transform: translateX(5%);
+}
+.face2 {
+    top: 90%;
+    transform: translateY(-10%);
+}
+#info {
+    left: -95%;
+    transform: translateX(5%);
+}
+.info2 {
+    top: 20%;
+    transform: translateY(-80%);
+}
+#per {
+    left: -95%;
+    transform: translateX(5%);
+}
+.per2 {
+    top: 25%;
+    transform: translateY(-75%)
+}
+#qrcode {
+    width: 100px;
+    height: 100px;
+    left: -23%;
+    transform: translateX(77%);
+}
+.qrcode2 {
+    top: 90%;
+    transform: translateY(-10%);
+}
+#link {
+    left: -87%;
+    transform: translateX(13%);
+}
+.link2 {
+    transform: translateY(-600%);
+}
+#call {
+    left: -87%;
+    transform: translateX(13%);
+}
+.call2 {
+    transform: translateY(-620%);
+}
+#code {
+    left: -87%;
+    transform: translateX(13%);
+}
+.code2 {
+    transform: translateY(-650%);
+}
